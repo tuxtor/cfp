@@ -7,6 +7,6 @@ public class RandomStringGenerator implements RandomStringService {
     
     @Override
     public String generateRandomString(){
-        return "The not so random String";
+        return "Hola soy victor";
     }
 }
